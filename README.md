@@ -6,6 +6,8 @@
 
 ### 🚀 Features
 
+✅ Arquitetura atômica (Atoms, Molecules, Organisms)
+
 ✅ Login
 
 ✅ Cadastro
